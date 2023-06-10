@@ -1,5 +1,6 @@
 ### <p align=center>👋 hi, welcome to web3paymentsolutions 🚀</p>
-<p align=center>innovative cross border blockchain B2B payment solutions</p>
+<p align=center>High speed, AI-based cross-border B2B blockchain & fiat payment solutions
+digitally transforming the future.</p>
 
 
   
