@@ -1,6 +1,6 @@
 ### <p align=center>👋 hi, welcome to web3paymentsolutions 🚀</p>
 <p align=center>High speed, AI-based cross-border B2B blockchain & fiat payment solutions.
-Digitally transforming the future of business banking. Engineered for businesses like yours. 
+<br>Digitally transforming the future of business banking. Engineered for businesses like yours. 
 <br>Simplify your global payments & financial operations, unlock new opportunities, and accelerate growth without limits. </p>
 
 
